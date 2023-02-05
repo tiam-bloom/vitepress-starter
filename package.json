@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "description": "测试vitepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "Tiam",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it-anchor": "^8.6.6",
+    "vitepress": "^1.0.0-alpha.45"
+  }
+}
