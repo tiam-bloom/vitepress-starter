@@ -1,4 +1,3 @@
-const anchor = require('markdown-it-anchor')
 
 module.exports = {
   title: "J's Docs",
@@ -66,8 +65,8 @@ module.exports = {
           text: "Guide",
           collapsed: true,  // 显示可折叠按钮
           items: [
-            { text: "artical01", link: "/guide/artical01" },
-            { text: "artical02", link: "/guide/artical02" },
+            { text: "第一篇文章", link: "/guide/artical01" },
+            { text: "md扩展语法", link: "/guide/artical02" },
           ],
         },
         {
