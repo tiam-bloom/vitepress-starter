@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as s}from"./app.d1d7af86.js";const g=JSON.parse('{"title":"关于我页面","description":"","frontmatter":{"sidebar":false},"headers":[],"relativePath":"about.md","lastUpdated":1675594679000}'),i={name:"about.md"},d=s("",7),l=[d];function c(o,r,n,p,h,_){return a(),e("div",null,l)}const u=t(i,[["render",c]]);export{g as __pageData,u as default};
